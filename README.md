@@ -1,4 +1,4 @@
-### Hi there 👋
+### GitHub stats 🔭
 
 <!--
 **T6X3G/T6X3G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
