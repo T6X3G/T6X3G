@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Tuguldur</h1>
+<h1 align="center">👋, I'm Tuguldur</h1>
 <h3 align="center">A Cybersecurity Student</h3>
 
 
