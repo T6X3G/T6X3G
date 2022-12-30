@@ -14,14 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T6X3G&theme=radical)
-
-
-
-
-##Snack eating my contribution graph
-![snake gif](https://github.com/T6X3G/T6X3G/blob/output/github-contribution-grid-snake.gif)
-
 
 
 <h1 align="center">Hi 👋, I'm Tuguldur</h1>
@@ -43,6 +35,11 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t6x3g&show_icons=true&locale=en&layout=compact" alt="t6x3g" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t6x3g&show_icons=true&locale=en" alt="t6x3g" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T6X3G&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t6x3g&" alt="t6x3g" /></p>
+
+
+##Snack eating my contribution graph
+![snake gif](https://github.com/T6X3G/T6X3G/blob/output/github-contribution-grid-snake.gif)
+
