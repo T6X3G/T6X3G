@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T6X3G&theme=radical)
+
+
+
+
+##Snack eating my contribution graph
+![snake gif](https://github.com/T6X3G/T6X3G/blob/output/github-contribution-grid-snake.gif)
