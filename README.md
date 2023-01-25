@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <script src="https://tryhackme.com/badge/1592659"></script>
+  
   <img src="https://tryhackme-badges.s3.amazonaws.com/T6X3G.png" alt="TryHackMe">
-  <script src="https://tryhackme.com/badge/1592659"></script>
+
 <a href="https://fb.com/togoldor.togoldor.37017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thug" height="30" width="40" /></a>
 <a href="https://instagram.com/thethug2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thethug2k" height="30" width="40" /></a>
 </p>
