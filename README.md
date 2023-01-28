@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
+ 
   <img src="https://tryhackme-badges.s3.amazonaws.com/T6X3G.png" alt="TryHackMe">
 
 <a href="https://fb.com/togoldor.togoldor.37017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thug" height="30" width="40" /></a>
