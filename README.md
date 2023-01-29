@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  
 
   <img src="https://tryhackme-badges.s3.amazonaws.com/T6X3G.png" alt="TryHackMe">
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+ 
 
 <a href="https://fb.com/togoldor.togoldor.37017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thug" height="30" width="40" /></a>
 <a href="https://instagram.com/thethug2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thethug2k" height="30" width="40" /></a>
