@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">A Cybersecurity Student</h3>
 
 
-<img align="right" alt="coding" width="200" src="https://thuglifecam.me/img/thuglife_og.jpg">	
+
 
 - 🔭 I’m currently studying on **TryHackMe**
 
