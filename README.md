@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
-![GitHub Image](https://camo.githubusercontent.com/d87412330e179c453793251de9ef574f11d2c570510e949304f1a767ad891b6c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t6x3g&theme=dracula" alt="t6x3g" /></p>
+![GitHub SVG Image](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
 
 
 
