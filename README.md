@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 
+![GitHub SVG Image](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t6x3g&theme=dracula" alt="t6x3g" /></p>
-![GitHub SVG Image](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
 
 
 
